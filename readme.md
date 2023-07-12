@@ -1,0 +1,1 @@
+Designed for control blootools by AT commands on esp32 like HC-05
